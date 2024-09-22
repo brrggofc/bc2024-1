@@ -1,2 +1,1 @@
-console.log("Hello brrggofc(Михайло Левчук)")
-document.getElementById("greeting").textContent="Hello brrggofc(Михайло Левчук)"
+console.log("Hello brrggofc")
